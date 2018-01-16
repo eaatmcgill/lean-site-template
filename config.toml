@@ -14,7 +14,7 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Effective Altruists at McGill"
+  title = "Effective Altruists @ McGill"
   weight = 1
   languageCode = "en"
 
@@ -71,8 +71,8 @@ DefaultContentLanguage = "en"
   # Make sure the links start with http:// or https://
   firstButtonText = "Facebook"
   firstButtonLink = "https://www.facebook.com/eamcgill/"
-  secondButtonText = "Mailing List"
-  secondButtonLink = ""
+  secondButtonText = "Email"
+  secondButtonLink = "eaatmcgill@gmail.com"
   # Remove the # before the text to add the optional Meetup button
   meetupButtonText = "Find us on Meetup"
 
